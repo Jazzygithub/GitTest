@@ -1,0 +1,2 @@
+This is a ne ReadMe file.  The Repository was created to test Git commands and puch local repository code to Github.
+The 2 test python files are using Breast ancer dataset and a Diabetes dataset using a Logical and KNN classifers.
